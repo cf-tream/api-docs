@@ -29,7 +29,7 @@
 
 流程说明图  
 
-![Image text](https://github.com/gmex/open-doc/blob/master/desc_token.png?raw=true)
+![Image](https://raw.githubusercontent.com/cf-tream/api-docs/master/desc_token.png)
 
 
 ### 接口请求格式说明：

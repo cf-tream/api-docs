@@ -7,4 +7,4 @@
     1.WebSocket API说名文档:WebSocket_API_for_v1.md
     2.Http REST API说明文档:Http-REST.md
     
-    3.用户及资金后台对接文档:[EX_UCS_WEB_API_v1.md](.EX_UCS_WEB_API_v1.md)
+    3.用户及资金后台对接文档: ![EX_UCS_WEB_API_v1.md](.EX_UCS_WEB_API_v1.md)
